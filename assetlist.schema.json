@@ -21,7 +21,7 @@
       "items": {
         "$ref": "#/$defs/asset"
       },
-      "minContains": 1
+      "minContains":6
     }
   },
   "additionalProperties": false,
